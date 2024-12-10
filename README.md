@@ -1,1 +1,2 @@
 # 260-4
+This Lab begun with the mini lab and in class to set up our own drivers. The drivers were declared/defined in the header file, then setup and fleshed out in the drivers.c file and then called by the main.c file. The primary objective was to learn how to use drivers and call them correctly. Past that it was learning to use the drivers implemented in STM Cube with the hope that we understand how they are used and to help us call correctly and debug in future labs. 
