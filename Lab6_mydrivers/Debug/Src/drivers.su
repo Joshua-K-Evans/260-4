@@ -1,0 +1,8 @@
+../Src/drivers.c:3:7:GPIO_Mode	32	static
+../Src/drivers.c:16:7:GPIOA_ClkEnable	4	static
+../Src/drivers.c:20:7:GPIOB_ClkEnable	4	static
+../Src/drivers.c:24:7:GPIOC_ClkEnable	4	static
+../Src/drivers.c:28:7:GPIO_Pull	32	static
+../Src/drivers.c:45:7:GPIO_TogglePin	16	static
+../Src/drivers.c:48:7:GPIO_WritePin	24	static
+../Src/drivers.c:56:11:GPIO_ReadPin	24	static
